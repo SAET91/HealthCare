@@ -26,7 +26,9 @@ El objetivo del proyecto es explorar estos datos mediante consultas SQL ejecutad
 ## 3. Visualización de Datos:
 
   .Se generan gráficos con Matplotlib para visualizar algunos de los resultados más relevantes:
+  
    .Encuentros más costosos por paciente: Un gráfico de barras horizontal que muestra los 10 encuentros con mayor costo.
+   
    .Condiciones más comunes: Un gráfico de barras vertical que muestra las 5 condiciones médicas más comunes entre los pacientes.
 
 ## 4. Conclusión:
